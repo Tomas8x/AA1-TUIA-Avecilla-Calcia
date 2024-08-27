@@ -12,21 +12,13 @@ Este repositorio contiene el código y los resultados del trabajo práctico de l
 ## Estructura del Repositorio
 
 - **TP-regresion-AA1.ipynb**: Notebook principal que contiene el código completo del trabajo práctico, incluyendo el análisis exploratorio de datos, implementación de modelos, optimización de hiperparámetros y evaluación de métricas.
-<!--- **house-prices.csv**: Dataset utilizado para el análisis y modelado (si es posible, incluye un enlace para descargarlo si no se puede incluir directamente en el repositorio).
- - **resultados/**: Carpeta que contiene las visualizaciones, gráficos y otros resultados generados durante el análisis. -->
+ **house-prices.csv**: Dataset utilizado para el análisis y modelado (si es posible, incluye un enlace para descargarlo si no se puede incluir directamente en el repositorio).
+ <!---- **resultados/**: Carpeta que contiene las visualizaciones, gráficos y otros resultados generados durante el análisis. -->
 - **README.md**: Este archivo, que explica el propósito del repositorio y proporciona detalles sobre el contenido y cómo ejecutar el proyecto.
 
 ## Requerimientos
 
-Para ejecutar el código, necesitarás tener instaladas las siguientes bibliotecas de Python:
-
-- `numpy`
-- `pandas`
-- `scikit-learn`
-- `matplotlib`
-- `seaborn`
-
-Puedes instalarlas utilizando el siguiente comando:
+Para ejecutar el código, necesitarás tener instaladas algunas bibliotecas de Python, puedes instalarlas utilizando el siguiente comando:
 
 ```bash
 pip install -r requirements.txt
