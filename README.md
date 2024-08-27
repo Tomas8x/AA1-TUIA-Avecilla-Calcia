@@ -2,7 +2,7 @@
 
 ## Trabajo Práctico: Predicción de Precios de Casas
 
-Este repositorio contiene el código y los resultados del trabajo práctico de la asignatura Aprendizaje Automático 1. El objetivo de este proyecto es implementar modelos de regresión lineal múltiple utilizando diversas técnicas de preprocesamiento y optimización de hiperparámetros para predecir el valor mediano de las viviendas en Boston.
+El objetivo de este proyecto es implementar modelos de regresión lineal múltiple utilizando diversas técnicas de preprocesamiento y optimización de hiperparámetros para predecir el valor mediano de las viviendas en Boston.
 
 ## Integrantes
 
@@ -22,3 +22,7 @@ Para ejecutar el código, necesitarás tener instaladas algunas bibliotecas de P
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Ubicación
+Este trabajo práctico es parte de la materia Aprendizaje Automático 1 de la Facultad de Ciencias Exactas, Ingeniería y Agrimensura de la Universidad Nacional de Rosario (UNR), Argentina.
